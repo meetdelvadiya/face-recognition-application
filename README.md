@@ -18,6 +18,7 @@ This project implements a real-time face recognition application using Dlib and 
 - You need to download these two files:  
   - [dlib_face_recognition_resnet_model_v1.dat](https://github.com/ageitgey/face_recognition_models/blob/master/face_recognition_models/models/dlib_face_recognition_resnet_model_v1.dat)
   - [shape_predictor_68_face_landmarks.dat](https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat)
+  - Place your reference image (e.g., your_photo.jpg) in the project directory.
 
 You can install the required libraries using pip:  
 
